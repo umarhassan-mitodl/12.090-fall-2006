@@ -1,0 +1,13 @@
+leftnav:
+- identifier: 241973c7-9eff-c7f5-ac39-daa48088029b
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 458e02b7-92d1-4fd1-189b-e8cb2d6d4f4a
+  name: Course Textbook
+  pageRef: /pages/course-textbook
+  weight: 20
+- identifier: bf6a6ec8-0637-76e2-cdcf-fc7f3d8c943b
+  name: Projects
+  pageRef: /pages/projects
+  weight: 30
