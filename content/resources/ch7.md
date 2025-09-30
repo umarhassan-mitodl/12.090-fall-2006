@@ -7,6 +7,8 @@ description: 'Lecture notes on Chapter 7: Flow in Rotating Environments, Playing
 file: /courses/12-090-introduction-to-fluid-motions-sediment-transport-and-current-generated-sedimentary-structures-fall-2006/02d4e659d322cdc8b566d9c3c76453c6_ch7.pdf
 file_size: 1030997
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -5,6 +5,8 @@ description: 'Lecture notes on Chapter 8: Sediments, Variables, and Flumes, Hydr
 file: /courses/12-090-introduction-to-fluid-motions-sediment-transport-and-current-generated-sedimentary-structures-fall-2006/bdaaea00bda454556e6dbe9f790d0d14_ch8.pdf
 file_size: 585447
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
