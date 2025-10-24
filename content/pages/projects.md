@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides a description of the term paper required for the
   course and a list of example paper topics.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

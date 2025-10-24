@@ -4,8 +4,6 @@ description: Lecture notes index.
 file: /courses/12-090-introduction-to-fluid-motions-sediment-transport-and-current-generated-sedimentary-structures-fall-2006/bb0fe9674bfec01b277eef49697e94f5_index.pdf
 file_size: 75388
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

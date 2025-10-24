@@ -7,8 +7,6 @@ description: 'Lecture notes on Chapter 9: Threshold of Movement, Forces on Bed P
 file: /courses/12-090-introduction-to-fluid-motions-sediment-transport-and-current-generated-sedimentary-structures-fall-2006/d74323848b9c8594ddc3f25d222ef361_ch9.pdf
 file_size: 619246
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
